@@ -165,7 +165,7 @@ int main() {
 
     limparTabuleiro(tabuleiro);
 
-    printf("### Batalha Naval - MateCheck ###\n");
+    printf("***** Batalha Naval - MateCheck *****\n");
 
     imprimirTabuleiro(tabuleiro, visivel);
     posicionarNavios(tabuleiro);
